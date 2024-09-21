@@ -1,0 +1,711 @@
+Link: #start-of-content, Text: Skip to content
+Link: /, Text:
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Sign in
+Link: https://github.com/features/actions, Text: ActionsAutomate any workflow
+Link: https://github.com/features/packages, Text: PackagesHost and manage packages
+Link: https://github.com/features/security, Text: SecurityFind and fix vulnerabilities
+Link: https://github.com/features/codespaces, Text: CodespacesInstant dev environments
+Link: https://github.com/features/copilot, Text: GitHub CopilotWrite better code with AI
+Link: https://github.com/features/code-review, Text: Code reviewManage code changes
+Link: https://github.com/features/issues, Text: IssuesPlan and track work
+Link: https://github.com/features/discussions, Text: DiscussionsCollaborate outside of code
+Link: https://github.com/features, Text: All features
+Link: https://docs.github.com, Text: Documentation
+Link: https://skills.github.com, Text: GitHub Skills
+Link: https://github.blog, Text: Blog
+Link: https://github.com/enterprise, Text: Enterprise
+Link: https://github.com/team, Text: Teams
+Link: https://github.com/enterprise/startups, Text: Startups
+Link: https://github.com/solutions/industries/healthcare, Text: Healthcare
+Link: https://github.com/solutions/industries/financial-services, Text: Financial services
+Link: https://github.com/solutions/industries/manufacturing, Text: Manufacturing
+Link: https://github.com/solutions/ci-cd, Text: CI/CD & Automation
+Link: https://github.com/solutions/devops, Text: DevOps
+Link: https://github.com/solutions/devsecops, Text: DevSecOps
+Link: /resources/articles/ai, Text: AI
+Link: /resources/articles/devops, Text: DevOps
+Link: /resources/articles/security, Text: Security
+Link: /resources/articles/software-development, Text: Software Development
+Link: /resources/articles, Text: View all
+Link: https://resources.github.com/learn/pathways, Text: Learning Pathways
+Link: https://resources.github.com, Text: White papers, Ebooks, Webinars
+Link: https://github.com/customer-stories, Text: Customer Stories
+Link: https://partner.github.com, Text: Partners
+Link: /sponsors, Text: GitHub SponsorsFund open source developers
+Link: https://github.com/readme, Text: The ReadME ProjectGitHub community articles
+Link: https://github.com/topics, Text: Topics
+Link: https://github.com/trending, Text: Trending
+Link: https://github.com/collections, Text: Collections
+Link: /enterprise, Text: Enterprise platformAI-powered developer platform
+Link: https://github.com/enterprise/advanced-security, Text: Advanced SecurityEnterprise-grade security features 
+Link: /features/copilot#enterprise, Text: GitHub CopilotEnterprise-grade AI features
+Link: /premium-support, Text: Premium SupportEnterprise-grade 24/7 support
+Link: https://github.com/pricing, Text: Pricing
+Link: https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax, Text: Search syntax tips
+Link: https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax, Text: documentation
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Sign in
+Link: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2Fsearch&source=header, Text: Sign up
+Link: , Text: Reload
+Link: , Text: Reload
+Link: , Text: Reload
+Link: https://github.com/search?q=nik&type=code, Text: Code,0results...(...)
+Link: https://github.com/search?q=nik&type=repositories, Text: Repositories,85.6kresults85.6k(85.6k)
+Link: https://github.com/search?q=nik&type=issues, Text: Issues,13kresults13k(13k)
+Link: https://github.com/search?q=nik&type=pullrequests, Text: Pull requests,16kresults16k(16k)
+Link: https://github.com/search?q=nik&type=discussions, Text: Discussions,380results380(380)
+Link: https://github.com/search?q=nik&type=users, Text: Users,251kresults251k(251k)
+Link: https://github.com/search?q=nik+language%3AHTML&type=repositories, Text: ‎HTML‎
+Link: https://github.com/search?q=nik+language%3AJavaScript&type=repositories, Text: ‎JavaScript‎
+Link: https://github.com/search?q=nik+language%3ACSS&type=repositories, Text: ‎CSS‎
+Link: https://github.com/search?q=nik+language%3APython&type=repositories, Text: ‎Python‎
+Link: https://github.com/search?q=nik+language%3AJava&type=repositories, Text: ‎Java‎
+Link: https://github.com/search?q=nik+language%3ATypeScript&type=repositories, Text: ‎TypeScript‎
+Link: https://github.com/search?q=nik+language%3AC%23&type=repositories, Text: ‎C#‎
+Link: https://github.com/search?q=nik+language%3AJupyter+Notebook&type=repositories, Text: ‎Jupyter Notebook‎    
+Link: https://github.com/search?q=nik+language%3APHP&type=repositories, Text: ‎PHP‎
+Link: https://github.com/search?q=nik+language%3AC%2B%2B&type=repositories, Text: ‎C++‎
+Link: https://github.com/search?q=nik+is%3Apublic&type=repositories, Text: ‎Public‎
+Link: https://github.com/search?q=nik+is%3Aprivate&type=repositories, Text: ‎Private‎
+Link: https://github.com/search/advanced, Text: Advanced search
+Link: /sullo/nikto, Text: sullo/nikto
+Link: /sullo/nikto/stargazers, Text: 8.4k
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Star
+Link: https://patreon.com/sullo, Text: patreon.com/sullo
+Link: https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository, Text: Learn more about funding links in repositories       
+Link: /contact/report-abuse?report=sullo%2Fnikto+%28Repository+Funding+Links%29, Text: Report abuse
+Link: /bachors/nik_parse.js, Text: bachors/nik_parse.js
+Link: /topics/nik, Text: nik
+Link: /topics/ktp, Text: ktp
+Link: /bachors/nik_parse.js/stargazers, Text: 291
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Star
+Link: /getnikola/nikola, Text: getnikola/nikola
+Link: /topics/python, Text: python
+Link: /topics/static-site-generator, Text: static-site-generator
+Link: /topics/static-site, Text: static-site
+Link: /getnikola/nikola/stargazers, Text: 2.6k
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Star
+Link: /sonya75/NikeAccountGenerator, Text: sonya75/NikeAccountGenerator
+Link: /sonya75/NikeAccountGenerator/stargazers, Text: 283
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Star
+Link: /adrianhajdin/nike_landing_page, Text: adrianhajdin/nike_landing_page
+Link: /topics/nike, Text: nike
+Link: /topics/tailwind, Text: tailwind
+Link: /topics/tailwindcss, Text: tailwindcss
+Link: /topics/nike-website, Text: nike-website
+Link: /adrianhajdin/nike_landing_page/stargazers, Text: 1.3k
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Star
+Link: /sponsors/adrianhajdin, Text: Sponsor
+Link: /YajS/NikPEViewer, Text: YajS/NikPEViewer
+Link: /YajS/NikPEViewer/stargazers, Text: 86
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Star
+Link: /azerpas/nikeAPI-Py, Text: azerpas/nikeAPI-Py
+Link: /topics/bot, Text: bot
+Link: /topics/sneakers, Text: sneakers
+Link: /topics/nike, Text: nike
+Link: /topics/snkrs, Text: snkrs
+Link: /azerpas/nikeAPI-Py/stargazers, Text: 199
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Star
+Link: /sponsors/azerpas, Text: Sponsor
+Link: /ahmadxp/nik-kk, Text: ahmadxp/nik-kk
+Link: /ahmadxp/nik-kk/stargazers, Text: 13
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Star
+Link: /nikitavoloboev/nikiv.dev, Text: nikitavoloboev/nikiv.dev
+Link: /topics/react, Text: react
+Link: /topics/nextjs, Text: nextjs
+Link: /nikitavoloboev/nikiv.dev/stargazers, Text: 1.4k
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Star
+Link: /sponsors, Text: Learn moreabout Sponsors
+Link: /nikitavoloboev, Text:
+Link: /nikitavoloboev, Text: nikitavoloboev
+Link: /nikitavoloboev, Text: nikitavoloboev
+Link: /sponsors/nikitavoloboev, Text: Sponsor
+Link: https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository, Text: Learn more about funding links in repositories       
+Link: /contact/report-abuse?report=nikitavoloboev%2Fnikiv.dev+%28Repository+Funding+Links%29, Text: Report abuse 
+Link: /yusriltakeuchi/ktpscanner, Text: yusriltakeuchi/ktpscanner
+Link: /topics/hacktoberfest, Text: hacktoberfest
+Link: /yusriltakeuchi/ktpscanner/stargazers, Text: 62
+Link: /login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dnik%26type%3Drepositories, Text: Star
+Link: /sponsors, Text: Learn moreabout Sponsors
+Link: /yusriltakeuchi, Text:
+Link: /yusriltakeuchi, Text: yusriltakeuchi
+Link: /yusriltakeuchi, Text: yusriltakeuchi
+Link: /sponsors/yusriltakeuchi, Text: Sponsor
+Link: https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository, Text: Learn more about funding links in repositories       
+Link: /contact/report-abuse?report=yusriltakeuchi%2Fktpscanner+%28Repository+Funding+Links%29, Text: Report abuseLink: https://github.com/search?q=nik&type=repositories&p=1, Text: 1
+Link: https://github.com/search?q=nik&type=repositories&p=2, Text: 2
+Link: https://github.com/search?q=nik&type=repositories&p=3, Text: 3
+Link: https://github.com/search?q=nik&type=repositories&p=4, Text: 4
+Link: https://github.com/search?q=nik&type=repositories&p=5, Text: 5
+Link: https://github.com/search?q=nik&type=repositories&p=6, Text: 6
+Link: https://github.com/search?q=nik&type=repositories&p=100, Text: 100
+Link: https://github.com/search?q=nik&type=repositories&p=2, Text: Next
+Link: https://github.com/sponsors/explore, Text: Explore sponsorable projects
+Link: https://github.com/sponsors/explore, Text: Explore sponsorable projects
+PS C:\Users\Sadjad Rgz\Documents\github automate> python .\main.py nik
+<!DOCTYPE html><html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark" data-a11y-animated-images="system" data-a11y-link-underlines="true" data-turbo-loaded=""><head><style type="text/css">.turbo-progress-bar {
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: #0076ff;
+  z-index: 2147483647;
+  transition:
+    width 300ms ease-out,
+    opacity 150ms 150ms ease-in;
+  transform: translate3d(0, 0, 0);
+}
+</style>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+  <link rel="preconnect" href="https://github.githubassets.com" crossorigin="">
+  <link rel="preconnect" href="https://avatars.githubusercontent.com">
+
+
+
+
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-3e154969b9f9.css"><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-9c5b7a476542.css"><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-afda8eb0fb33.css"><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-2494e44ccdc5.css"><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-56fff47acadc.css"><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-71cd4cc132ec.css"><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-fd5499848985.css"><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-31d17ba3e139.css"><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-68d6b2c79663.css">
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-4cf0d59ab51a.css">
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-f4d27dc36ca2.css">
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-e647c9e7e18c.css">
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-e4eed26e112b.css">
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/search-2a3fe1ce5c41.css">
+
+
+
+
+  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["code_vulnerability_scanning","copilot_at_mention_button","copilot_beta_features_opt_in","copilot_chat_conversation_intent_knowledge_search_skill","copilot_chat_static_thread_suggestions","copilot_conversational_ux_history_refs","copilot_copy_message","copilot_followup_to_agent","copilot_implicit_context","copilot_site_updates_sept17","copilot_smell_icebreaker_ux","experimentation_azure_variant_endpoint","failbot_handle_non_errors","geojson_azure_maps","ghost_pilot_confidence_truncation_25","ghost_pilot_confidence_truncation_40","ghost_pilot_div","ghost_pilot_stream_handling","ghost_pilot_undo_fix","hovercard_accessibility","hovercard_longer_activate_timeout","marketing_pages_search_explore_provider","remove_child_patch","sample_network_conn_type","site_metered_billing_update","issues_react_first_time_contribution_banner","jk_navigation_in_list_view","ui_commands_respect_modals"]}</script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-3c2ddaf907eb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-89a69c248502.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-56729c905fe2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_arianotify-polyfill_ariaNotify-polyfill_js-node_modules_github_mi-247092-b9c7cf3107b7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-463567758ca0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-f690fd9ae3d5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-3993df7a23db.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-6d3967acd51c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_anchored-position_js-node_modules_github_combo-c8f81b-aae774371435.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_details-d-ed9a97-841122a1e9d4.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_text-expander-element_dist_index_js-cd48220d74d5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-d1a841-1cb70ce9c8ac.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-f4b251-f7c3b6081b19.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-d71043-2f71edbcd4a2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-278f98-614627bd58c2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-de542b52f7a1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-ae39d05074eb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_hydro-analytics-client_-7901e7-b9a6188c064d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_stack-68835d-f76b8ac8a5c7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-ce7225a304c5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_morphdom_dist_morphdom-e-7c534c-f8a5485c982a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-858e043fcf76.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-893f9f-6cf3320416b8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_color-convert_index_js-0e07cc183eed.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_session-resume_dist_index_js-node_modules_primer_behaviors_dist_e-da6ec6-5de3eedc1320.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_textarea-autosi-ded18a-121705d071ff.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_updatable-content_updatable-content_ts-054f2babc9e3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_sso_ts-ui_packages-900dde-ab87c1d6c5c8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-112600808cf9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-d0d0a6-63a5b5495698.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-aeae6fcdf371.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-7e012e557c6d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-bf7e5a3732fd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-54f34167118d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/search-e560394dd529.js"></script>
+
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-7b7b5264f6c1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_primer_octicons-react_di-5313f5-454781a7c147.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-9d9ff6508ce7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-050077edbc8d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_node_modules_primer_octicons-react_dist_index_esm_mjs-a5155473fc69.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-c5d12abd4b76.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_AnchoredOverlay_AnchoredOverlay_js-23c952760bfd.js"></script>   
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Text_Text_js-node_modules_primer_react_lib-esm_Text-7845da-c9e0d7beb744.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionMenu_ActionMenu_js-778607839957.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_react-router-dom_dist_index_js-c5568c29d405.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Link_Link_js-node_modules_primer_react_lib-esm_Page-7c6288-af039ea8be1b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_blackbird-parser_dist_blackbird_js-2f98a86e6f32.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Avatar_Avatar_js-node_modules_primer_react_lib-esm_-4c08cd-9ac29594a4c3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-146db5-39898b08e705.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_register-app_ts-4f93e6c9157f.js"></script>
+
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_commit-checks-status_index_ts-ui_packages_react-core_use-feature-flag_ts-ui_packa-9dd6f2-33472183de33.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/blackbird-search-19188797d877.js"></script>
+<link crossorigin="anonymous" media="all" re
+['px-2', 'py-4', 'color-bg-accent-emphasis', 'color-fg-on-emphasis', 'show-on-focus', 'js-skip-to-content']
+['mr-lg-3', 'color-fg-inherit', 'flex-order-2', 'js-prevent-focus-on-mobile-nav']
+['HeaderMenu-link', 'HeaderMenu-button', 'd-inline-flex', 'd-lg-none', 'flex-order-1', 'f5', 'no-underline', 'border', 'color-border-default', 'rounded-2', 'px-2', 'py-1', 'color-fg-inherit', 'js-prevent-focus-on-mobile-nav'] 
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-link', 'no-underline', 'px-0', 'px-lg-2', 'py-3', 'py-lg-2', 'd-block', 'd-lg-inline-block']        
+['Link', 'color-fg-accent', 'text-normal', 'ml-2']
+['Link--inTextBlock']
+['HeaderMenu-link', 'HeaderMenu-link--sign-in', 'HeaderMenu-button', 'flex-shrink-0', 'no-underline', 'd-none', 'd-lg-inline-flex', 'border', 'border-lg-0', 'rounded', 'rounded-lg-0', 'px-2', 'py-1']
+['HeaderMenu-link', 'HeaderMenu-link--sign-up', 'HeaderMenu-button', 'flex-shrink-0', 'd-flex', 'd-lg-inline-flex', 'no-underline', 'border', 'color-border-default', 'rounded', 'px-2', 'py-1']
+['Link--inTextBlock']
+['Link--inTextBlock']
+['Link--inTextBlock']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'ceIFIW']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Button--secondary', 'Button--small', 'Button']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Button--secondary', 'Button--small', 'Button']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Link__StyledLink-sc-14289xe-0', 'lcoFKD']
+['Link__StyledLink-sc-14289xe-0', 'lcoFKD']
+PS C:\Users\Sadjad Rgz\Documents\github automate> python .\main.py nik
+['px-2', 'py-4', 'color-bg-accent-emphasis', 'color-fg-on-emphasis', 'show-on-focus', 'js-skip-to-content']
+['mr-lg-3', 'color-fg-inherit', 'flex-order-2', 'js-prevent-focus-on-mobile-nav']
+['HeaderMenu-link', 'HeaderMenu-button', 'd-inline-flex', 'd-lg-none', 'flex-order-1', 'f5', 'no-underline', 'border', 'color-border-default', 'rounded-2', 'px-2', 'py-1', 'color-fg-inherit', 'js-prevent-focus-on-mobile-nav'] 
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-link', 'no-underline', 'px-0', 'px-lg-2', 'py-3', 'py-lg-2', 'd-block', 'd-lg-inline-block']        
+['Link', 'color-fg-accent', 'text-normal', 'ml-2']
+['Link--inTextBlock']
+['HeaderMenu-link', 'HeaderMenu-link--sign-in', 'HeaderMenu-button', 'flex-shrink-0', 'no-underline', 'd-none', 'd-lg-inline-flex', 'border', 'border-lg-0', 'rounded', 'rounded-lg-0', 'px-2', 'py-1']
+['HeaderMenu-link', 'HeaderMenu-link--sign-up', 'HeaderMenu-button', 'flex-shrink-0', 'd-flex', 'd-lg-inline-flex', 'no-underline', 'border', 'color-border-default', 'rounded', 'px-2', 'py-1']
+['Link--inTextBlock']
+['Link--inTextBlock']
+['Link--inTextBlock']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+PS C:\Users\Sadjad Rgz\Documents\github automate> python .\main.py nik
+['px-2', 'py-4', 'color-bg-accent-emphasis', 'color-fg-on-emphasis', 'show-on-focus', 'js-skip-to-content']
+['mr-lg-3', 'color-fg-inherit', 'flex-order-2', 'js-prevent-focus-on-mobile-nav']
+['HeaderMenu-link', 'HeaderMenu-button', 'd-inline-flex', 'd-lg-none', 'flex-order-1', 'f5', 'no-underline', 'border', 'color-border-default', 'rounded-2', 'px-2', 'py-1', 'color-fg-inherit', 'js-prevent-focus-on-mobile-nav'] 
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-link', 'no-underline', 'px-0', 'px-lg-2', 'py-3', 'py-lg-2', 'd-block', 'd-lg-inline-block']        
+['Link', 'color-fg-accent', 'text-normal', 'ml-2']
+['Link--inTextBlock']
+['HeaderMenu-link', 'HeaderMenu-link--sign-in', 'HeaderMenu-button', 'flex-shrink-0', 'no-underline', 'd-none', 'd-lg-inline-flex', 'border', 'border-lg-0', 'rounded', 'rounded-lg-0', 'px-2', 'py-1']
+['HeaderMenu-link', 'HeaderMenu-link--sign-up', 'HeaderMenu-button', 'flex-shrink-0', 'd-flex', 'd-lg-inline-flex', 'no-underline', 'border', 'color-border-default', 'rounded', 'px-2', 'py-1']
+['Link--inTextBlock']
+['Link--inTextBlock']
+['Link--inTextBlock']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'ceIFIW']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+None
+['Link--inTextBlock']
+['Link--secondary']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Button--secondary', 'Button--small', 'Button']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Button--secondary', 'Button--small', 'Button']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+None
+None
+['color-fg-default']
+['color-fg-default']
+['Button--secondary', 'Button--small', 'Button']
+['Link--inTextBlock']
+['Link--secondary']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+None
+None
+['color-fg-default']
+['color-fg-default']
+['Button--secondary', 'Button--small', 'Button']
+['Link--inTextBlock']
+['Link--secondary']
+PS C:\Users\Sadjad Rgz\Documents\github automate> python .\main.py nik
+['px-2', 'py-4', 'color-bg-accent-emphasis', 'color-fg-on-emphasis', 'show-on-focus', 'js-skip-to-content']
+['mr-lg-3', 'color-fg-inherit', 'flex-order-2', 'js-prevent-focus-on-mobile-nav']
+['HeaderMenu-link', 'HeaderMenu-button', 'd-inline-flex', 'd-lg-none', 'flex-order-1', 'f5', 'no-underline', 'border', 'color-border-default', 'rounded-2', 'px-2', 'py-1', 'color-fg-inherit', 'js-prevent-focus-on-mobile-nav'] 
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'Link--external']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description', 'pb-lg-3']
+['HeaderMenu-dropdown-link', 'd-block', 'no-underline', 'position-relative', 'py-2', 'Link--secondary', 'd-flex', 'flex-items-center', 'Link--has-description']
+['HeaderMenu-link', 'no-underline', 'px-0', 'px-lg-2', 'py-3', 'py-lg-2', 'd-block', 'd-lg-inline-block']        
+['Link', 'color-fg-accent', 'text-normal', 'ml-2']
+['Link--inTextBlock']
+['HeaderMenu-link', 'HeaderMenu-link--sign-in', 'HeaderMenu-button', 'flex-shrink-0', 'no-underline', 'd-none', 'd-lg-inline-flex', 'border', 'border-lg-0', 'rounded', 'rounded-lg-0', 'px-2', 'py-1']
+['HeaderMenu-link', 'HeaderMenu-link--sign-up', 'HeaderMenu-button', 'flex-shrink-0', 'd-flex', 'd-lg-inline-flex', 'no-underline', 'border', 'color-border-default', 'rounded', 'px-2', 'py-1']
+['Link--inTextBlock']
+['Link--inTextBlock']
+['Link--inTextBlock']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'evlISJ']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'cRTsVN']
+['Link__StyledLink-sc-14289xe-0', 'ceIFIW']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+None
+['Link--inTextBlock']
+['Link--secondary']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Button--secondary', 'Button--small', 'Button']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Button--secondary', 'Button--small', 'Button']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+None
+None
+['color-fg-default']
+['color-fg-default']
+['Button--secondary', 'Button--small', 'Button']
+['Link--inTextBlock']
+['Link--secondary']
+['Link__StyledLink-sc-14289xe-0', 'dIlPa']
+['Link__StyledLink-sc-14289xe-0', 'iRNOQh']
+['Link__StyledLink-sc-14289xe-0', 'cbYOAz']
+['types__StyledButton-sc-ws60qy-0', 'gGdPyq']
+None
+None
+['color-fg-default']
+['color-fg-default']
+['Button--secondary', 'Button--small', 'Button']
+['Link--inTextBlock']
+['Link--secondary']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Pagination__Page-sc-cp45c9-0', 'eEnDlO']
+['Link__StyledLink-sc-14289xe-0', 'lcoFKD']
+['Link__StyledLink-sc-14289xe-0', 'lcoFKD']
